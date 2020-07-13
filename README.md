@@ -101,8 +101,9 @@ However, the variance of lot 3 is 170psi which does not meet the design specific
 H0:  The sample population is statistically similar to the population
 H1:  The sample population is not statistically similar to the population
 
-### 2. Assumption: The sample data was randomly selected from its population data.
-               The sample distribution is similar to the population.
+### 2. Assumption: 
+The sample data was randomly selected from its population data. 
+The sample distribution is similar to the population.
 
 ### 3. The sample size is not less than 30. 
 
